@@ -1,0 +1,55 @@
+{
+  "deck_id": "arcane-control",
+  "name": "Arcane Control",
+  "back_url": "https://alexclark.github.io/KoviirResourceHost/art/generated/card_back.png",
+  "main_cards": [
+    {
+      "card_id": "spell_tome_001",
+      "count": 1
+    },
+    {
+      "card_id": "arcane_golem_001",
+      "count": 2
+    },
+    {
+      "card_id": "arcane_resonance_001",
+      "count": 2
+    },
+    {
+      "card_id": "fire_bolt_001",
+      "count": 1
+    },
+    {
+      "card_id": "counterspell_001",
+      "count": 2
+    },
+    {
+      "card_id": "arcane_shield_001",
+      "count": 2
+    },
+    {
+      "card_id": "fireball_001",
+      "count": 1
+    },
+    {
+      "card_id": "apprentice_mage_001",
+      "count": 4
+    },
+    {
+      "card_id": "prestidigitation_001",
+      "count": 1
+    }
+  ],
+  "resource_cards": [
+    {
+      "card_id": "leyline_001",
+      "count": 4
+    }
+  ],
+  "backpack_cards": [
+    {
+      "card_id": "smoke_bomb_001",
+      "count": 4
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "deck_id": "holy-moly",
+  "name": "Holy Moly",
+  "back_url": "https://alexclark.github.io/KoviirResourceHost/art/generated/card_back.png",
+  "main_cards": [
+    {
+      "card_id": "wandering_paladin_001",
+      "count": 4
+    },
+    {
+      "card_id": "idol_of_renewal_001",
+      "count": 2
+    },
+    {
+      "card_id": "sacred_flame_001",
+      "count": 1
+    },
+    {
+      "card_id": "town_guard_001",
+      "count": 4
+    },
+    {
+      "card_id": "throwing_dagger_001",
+      "count": 1
+    },
+    {
+      "card_id": "holy_smite_001",
+      "count": 3
+    },
+    {
+      "card_id": "blessed_ground_001",
+      "count": 1
+    }
+  ],
+  "resource_cards": [
+    {
+      "card_id": "sanctified_cathedral_001",
+      "count": 3
+    },
+    {
+      "card_id": "church_001",
+      "count": 1
+    }
+  ],
+  "backpack_cards": [
+    {
+      "card_id": "health_potion_001",
+      "count": 4
+    }
+  ]
+}

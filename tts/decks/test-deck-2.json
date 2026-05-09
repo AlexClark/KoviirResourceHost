@@ -1,0 +1,95 @@
+{
+  "deck_id": "test-deck-2",
+  "name": "Test Deck",
+  "back_url": "https://alexclark.github.io/KoviirResourceHost/art/generated/card_back.png",
+  "main_cards": [
+    {
+      "card_id": "prestidigitation_001",
+      "count": 1
+    },
+    {
+      "card_id": "prescient_planning_001",
+      "count": 1
+    },
+    {
+      "card_id": "throwing_dagger_001",
+      "count": 1
+    },
+    {
+      "card_id": "town_guard_001",
+      "count": 2
+    },
+    {
+      "card_id": "militia_swordsman_001",
+      "count": 2
+    },
+    {
+      "card_id": "militia_archer_001",
+      "count": 2
+    },
+    {
+      "card_id": "knight_001",
+      "count": 1
+    },
+    {
+      "card_id": "wand_of_missiles_001",
+      "count": 1
+    },
+    {
+      "card_id": "mana_crystal_001",
+      "count": 1
+    },
+    {
+      "card_id": "recall_knowledge_001",
+      "count": 1
+    },
+    {
+      "card_id": "shields_up_001",
+      "count": 1
+    }
+  ],
+  "resource_cards": [
+    {
+      "card_id": "town_market_001",
+      "count": 1
+    },
+    {
+      "card_id": "wilderness_001",
+      "count": 1
+    },
+    {
+      "card_id": "church_001",
+      "count": 1
+    },
+    {
+      "card_id": "crossroads_001",
+      "count": 2
+    },
+    {
+      "card_id": "leyline_001",
+      "count": 1
+    },
+    {
+      "card_id": "cavern_001",
+      "count": 1
+    },
+    {
+      "card_id": "abandoned_mine_001",
+      "count": 1
+    }
+  ],
+  "backpack_cards": [
+    {
+      "card_id": "health_potion_001",
+      "count": 2
+    },
+    {
+      "card_id": "smoke_bomb_001",
+      "count": 1
+    },
+    {
+      "card_id": "alchemists_fire_001",
+      "count": 1
+    }
+  ]
+}

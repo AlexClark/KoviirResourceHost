@@ -1,0 +1,62 @@
+{
+  "deck_id": "bunny-bop",
+  "name": "Bunny Bop",
+  "back_url": "https://alexclark.github.io/KoviirResourceHost/art/generated/card_back.png",
+  "main_cards": [
+    {
+      "card_id": "prestidigitation_001",
+      "count": 4
+    },
+    {
+      "card_id": "prescient_planning_001",
+      "count": 1
+    },
+    {
+      "card_id": "primal_surge_001",
+      "count": 4
+    },
+    {
+      "card_id": "blessed_ground_001",
+      "count": 4
+    },
+    {
+      "card_id": "throwing_dagger_001",
+      "count": 3
+    },
+    {
+      "card_id": "recall_knowledge_001",
+      "count": 2
+    },
+    {
+      "card_id": "wolf_001",
+      "count": 3
+    },
+    {
+      "card_id": "griffon_001",
+      "count": 1
+    },
+    {
+      "card_id": "bunny_001",
+      "count": 1
+    }
+  ],
+  "resource_cards": [
+    {
+      "card_id": "sanctified_cathedral_001",
+      "count": 2
+    },
+    {
+      "card_id": "wilderness_church_001",
+      "count": 3
+    },
+    {
+      "card_id": "ancient_confluence_001",
+      "count": 1
+    },
+    {
+      "card_id": "wilderness_001",
+      "count": 2
+    }
+  ],
+  "backpack_cards": []
+}

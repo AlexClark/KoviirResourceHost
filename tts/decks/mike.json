@@ -1,0 +1,51 @@
+{
+  "deck_id": "mike",
+  "name": "Primal Surge",
+  "back_url": "https://alexclark.github.io/KoviirResourceHost/art/generated/card_back.png",
+  "main_cards": [
+    {
+      "card_id": "primal_surge_001",
+      "count": 4
+    },
+    {
+      "card_id": "thorn_whip_001",
+      "count": 1
+    },
+    {
+      "card_id": "wolf_001",
+      "count": 4
+    },
+    {
+      "card_id": "brown_bear_001",
+      "count": 3
+    },
+    {
+      "card_id": "griffon_001",
+      "count": 2
+    },
+    {
+      "card_id": "prestidigitation_001",
+      "count": 1
+    },
+    {
+      "card_id": "vicious_strike_001",
+      "count": 1
+    }
+  ],
+  "resource_cards": [
+    {
+      "card_id": "wilderness_001",
+      "count": 3
+    },
+    {
+      "card_id": "feymist_meadow_001",
+      "count": 1
+    }
+  ],
+  "backpack_cards": [
+    {
+      "card_id": "smoke_bomb_001",
+      "count": 4
+    }
+  ]
+}

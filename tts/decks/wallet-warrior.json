@@ -1,0 +1,47 @@
+{
+  "deck_id": "wallet-warrior",
+  "name": "Unholy Only",
+  "back_url": "https://alexclark.github.io/KoviirResourceHost/art/generated/card_back.png",
+  "main_cards": [
+    {
+      "card_id": "zombie_001",
+      "count": 4
+    },
+    {
+      "card_id": "skeleton_001",
+      "count": 4
+    },
+    {
+      "card_id": "eldritch_dread_001",
+      "count": 3
+    },
+    {
+      "card_id": "death_pact_001",
+      "count": 2
+    },
+    {
+      "card_id": "soul_drain_001",
+      "count": 2
+    },
+    {
+      "card_id": "mind_spike_001",
+      "count": 1
+    }
+  ],
+  "resource_cards": [
+    {
+      "card_id": "siphoned_essence_001",
+      "count": 3
+    },
+    {
+      "card_id": "abandoned_mine_001",
+      "count": 1
+    }
+  ],
+  "backpack_cards": [
+    {
+      "card_id": "alchemists_fire_001",
+      "count": 4
+    }
+  ]
+}
